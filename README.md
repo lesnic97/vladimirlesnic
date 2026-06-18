@@ -92,6 +92,10 @@ Specialist IT cu experiență în administrarea infrastructurii IT, securitate i
 
 ## Certificări și Instruiri
 
+- EU4Digital Academy – EU4Digital Facility (European Union)
+  - Training finalizat cu succes
+  - Certificat emis la 18 iunie 2026
+  - Program dedicat dezvoltării competențelor digitale și transformării digitale în regiunea Parteneriatului Estic. 【1-a5b793】
 - Business Analyst – Vector Academy
 - OSINT Workshop – CRDF Global
 - Bazele Securității Informațiilor – eGA
