@@ -3,7 +3,7 @@
 ## Specialist principal IT | Infrastructure & Systems Administration | Cybersecurity
 
 📍 Chișinău, Moldova  
-📧 vladimir.lesnic@justice.gov.md
+📧 lesnic97@mail.ru
 
 ---
 
